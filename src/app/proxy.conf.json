@@ -1,0 +1,8 @@
+{
+  "/ords/*": {
+    "target": "http://197.3.5.106:9280",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
